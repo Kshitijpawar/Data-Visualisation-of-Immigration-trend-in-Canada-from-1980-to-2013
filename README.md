@@ -28,9 +28,9 @@ College project on Python
 ***
 * **Insight for USA**  
 
-![alt text](https://github.com/Kshitijpawar/Data-Visualisation-of-Immigration-trend-in-Canada-from-1980-to-2013/blob/master/Images/usa.JPG "USA")
+![alt text](https://github.com/Kshitijpawar/Data-Visualisation-of-Immigration-trend-in-Canada-from-1980-to-2013/blob/master/Images/usa.jpg "USA")
 ***
 * **Insight for Sri Lanka**  
 
-![alt text](https://github.com/Kshitijpawar/Data-Visualisation-of-Immigration-trend-in-Canada-from-1980-to-2013/blob/master/Images/srilanka.JPG "Sri Lanka")
+![alt text](https://github.com/Kshitijpawar/Data-Visualisation-of-Immigration-trend-in-Canada-from-1980-to-2013/blob/master/Images/srilanka.jpg "Sri Lanka")
 ***
