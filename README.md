@@ -7,13 +7,30 @@ College project on Python
 ***
 # Results
 * **Implementation**   
+
 ![alt text](https://github.com/Kshitijpawar/Data-Visualisation-of-Immigration-trend-in-Canada-from-1980-to-2013/blob/master/Images/minip.JPG "The Program")
+***
 * **Immigration trend of top five countries**
+
 ![alt text](https://github.com/Kshitijpawar/Data-Visualisation-of-Immigration-trend-in-Canada-from-1980-to-2013/blob/master/Images/mini3.JPG "Area Plot")
+***
 * **Wordcloud**
+
 ![alt text](https://github.com/Kshitijpawar/Data-Visualisation-of-Immigration-trend-in-Canada-from-1980-to-2013/blob/master/Images/mini2.JPG "Wordcloud")
+***
 * **Insight for Haiti**
+
 ![alt text](https://github.com/Kshitijpawar/Data-Visualisation-of-Immigration-trend-in-Canada-from-1980-to-2013/blob/master/Images/mini4.JPG "Haiti")
+***
 * **Insight for Iceland**
+
 ![alt text](https://github.com/Kshitijpawar/Data-Visualisation-of-Immigration-trend-in-Canada-from-1980-to-2013/blob/master/Images/mini5.JPG "Iceland")
-* **Insight for
+***
+* **Insight for USA**  
+
+![alt text](https://github.com/Kshitijpawar/Data-Visualisation-of-Immigration-trend-in-Canada-from-1980-to-2013/blob/master/Images/usa.JPG "USA")
+***
+* **Insight for Sri Lanka**  
+
+![alt text](https://github.com/Kshitijpawar/Data-Visualisation-of-Immigration-trend-in-Canada-from-1980-to-2013/blob/master/Images/srilanka.JPG "Sri Lanka")
+***
