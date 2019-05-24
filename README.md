@@ -6,5 +6,5 @@ College project on Python
 ![alt text](https://github.com/Kshitijpawar/Data-Visualisation-of-Immigration-trend-in-Canada-from-1980-to-2013/blob/master/flowchart.png "Flowchart")
 ***
 # Results
-⋅⋅* Implementation   
+* Implementation   
 ![alt text](https://github.com/Kshitijpawar/Data-Visualisation-of-Immigration-trend-in-Canada-from-1980-to-2013/blob/master/minip.JPG "The Program")
